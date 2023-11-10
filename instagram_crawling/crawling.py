@@ -6,7 +6,6 @@ import time
 
 
 id = "hwang.jaemoo"
-pw = "vlakcb1423."
 
 options = webdriver.ChromeOptions()
 options.add_argument('--headless')        # Head-less 설정
